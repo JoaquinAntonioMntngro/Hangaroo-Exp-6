@@ -1,6 +1,6 @@
 import random
 ABC = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',]
-wordList = ['martin','shake','programming', 'minecraft', 'madeelao','red', 'leader', 'spider', 'avengers','python','shirt','yellow','harvest','palmiano']
+wordList = ['joaquin','calculus','programming', 'angkas', 'madeelao','black', 'leader', 'physics', 'pogi','python','shirt','yellow','harvest','montenegro']
 secretWord = random.choice(wordList); length_word = len(secretWord); lettersGuessed =[]; guessWord =[]
 
 def start():
